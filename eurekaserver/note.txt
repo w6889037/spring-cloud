@@ -1,0 +1,10 @@
+#启动服务注册中心
+java -jar eureka-server-1.0-SNAPSHOT.jar --spring.profiles.active=center1
+java -jar eureka-server-1.0-SNAPSHOT.jar --spring.profiles.active=center2
+
+#启动hello service服务
+java -jar hello-server-1.0-SNAPSHOT.jar --server.port=8081
+java -jar hello-server-1.0-SNAPSHOT.jar --server.port=8082
+
+
+
