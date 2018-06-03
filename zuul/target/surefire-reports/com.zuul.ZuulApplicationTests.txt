@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.zuul.ZuulApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.486 sec - in com.zuul.ZuulApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.837 sec - in com.zuul.ZuulApplicationTests
